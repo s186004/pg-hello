@@ -21,7 +21,7 @@ function deviceInfo() {
 }
 function deviceAutor() {
 
-	info =  'Jestem Monika :-)' + '\n' +
+	info =  'Jestem Monika :-)'; 
 			
 	navigator.notification.alert(info);
 }
