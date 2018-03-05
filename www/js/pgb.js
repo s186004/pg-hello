@@ -18,5 +18,10 @@ function deviceInfo() {
 			'Device Version : '  + device.version  + '\n';
 
 	navigator.notification.alert(info);
-	
+}
+function deviceAutor() {
+
+	info =  'Jestem Monika :-)' + '\n' +
+			
+	navigator.notification.alert(info);
 }
