@@ -4,7 +4,7 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>Wizytowka</name>
+    <name>Wizytówka</name>
     <description>My first mobile app</description>
     <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
 		John Brown

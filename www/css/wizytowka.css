@@ -1,5 +1,19 @@
-* body {text-align: center;}
- body {background-color:#00CED1;}
- h1 {font-size:10pt; font-family:Brush Script MT, Brush Script Std, cursive; font-weight:bold; margin: 0px; color: white;}
- h2 {font-size:8pt; font-family:Brush Script MT, Brush Script Std, cursive; font-weight:bold; margin: 2px; color: white;}
- 
+body {
+	text-align:center;
+	background-color:#00CCCC;
+	margin:auto;
+	}
+h1 {
+		font-size:8pt;
+		font-family:Brush Script MT, Brush Script Std, cursive; 
+		font-weight:bold; 
+		margin:0px; 
+		color:white;
+	}
+ h2 {
+		font-size:6pt; 
+		font-family:Brush Script MT, Brush Script Std, cursive; 
+		font-weight:bold; 
+		margin:2px; 
+		color:white;
+		}
