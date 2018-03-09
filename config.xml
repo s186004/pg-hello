@@ -10,9 +10,15 @@
 		Monika Bujas
 	</author>
 	<platform name="android"/>
+	<icon src="res/android/ldpi.png" density="ldpi" />
+	<plugin name="cordova-plugin-splashscreen" spec="5.0.2"/>
+	<preference name="SplashScreen" value="foo" />
+	<preference name="SplashScreenDelay" value="3000" />
+	<preference name="SplashMaintainAspectRatio" value="true|false" />
+	<preference name="SplashShowOnlyFirstTime" value="true|false" />
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
 	<plugin name="cordova-plugin-network-information" spec="2.0.1" />
 	<plugin name="cordova-plugin-device-motion" spec="2.0.0" />
-	<plugin name="cordova-plugin-splashscreen" spec="5.0.2" />
+	
 </widget>
