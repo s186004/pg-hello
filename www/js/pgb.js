@@ -40,4 +40,3 @@ function checkConnection() {
 
     navigator.notification.alert('Connection type: ' + states[networkState]);
 }
-checkConnection();
