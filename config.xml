@@ -9,7 +9,6 @@
     <author href="http://mypersonalwebsite.com" email="monikabujas1@gmail.com">
 		Monika Bujas
 	</author>
-<<<<<<< HEAD
 	<platform name="android"/>
 	<icon src="res/android/ldpi.png" density="ldpi" />
 	<plugin name="cordova-plugin-splashscreen" spec="5.0.2"/>
@@ -17,26 +16,8 @@
 	<preference name="SplashScreenDelay" value="3000" />
 	<preference name="SplashMaintainAspectRatio" value="true|false" />
 	<preference name="SplashShowOnlyFirstTime" value="true|false" />
-=======
-	<platform name="android">
-	<splash src="res/screen/android/splash-land-hdpi.png" density="land-hdpi"/>
-    <splash src="res/screen/android/splash-land-ldpi.png" density="land-ldpi"/>
-    <splash src="res/screen/android/splash-land-mdpi.png" density="land-mdpi"/>
-    <splash src="res/screen/android/splash-land-xhdpi.png" density="land-xhdpi"/>
-
-    <splash src="res/screen/android/splash-port-hdpi.png" density="port-hdpi"/>
-    <splash src="res/screen/android/splash-port-ldpi.png" density="port-ldpi"/>
-    <splash src="res/screen/android/splash-port-mdpi.png" density="port-mdpi"/>
-    <splash src="res/screen/android/splash-port-xhdpi.png" density="port-xhdpi"/>
-	</platform>
->>>>>>> c7074f37d52bcf2e04452e8dad6bf30a9c2a7629
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
-	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
-	<plugin name="cordova-plugin-network-information" spec="2.0.1" />
-	<plugin name="cordova-plugin-device-motion" spec="2.0.0" />
-<<<<<<< HEAD
-	
-=======
-	<plugin name="cordova-plugin-splashscreen" spec="5.0.2" />
->>>>>>> c7074f37d52bcf2e04452e8dad6bf30a9c2a7629
+    <plugin name="cordova-plugin-dialogs" spec="2.0.1" />
+    <plugin name="cordova-plugin-network-information" spec="2.0.1" />
+    <plugin name="cordova-plugin-device-motion" spec="2.0.0" />
 </widget>
