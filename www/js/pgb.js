@@ -21,7 +21,7 @@ function deviceInfo() {
 }
 function deviceAutor() {
 
-	info =  'Jestem Monika :-)'; 
+	info =  'Monika Bujas'; 
 			
 	navigator.notification.alert(info);
 }
@@ -38,5 +38,5 @@ function checkConnection() {
     states[Connection.CELL] = 'Cell generic connection';
     states[Connection.NONE] = 'No network connection';
 
-    navigator.notification.alert('Connection type: ' + states[networkState]);
+    navigator.notification.alert('Typ połączenia: ' + states[networkState]);
 }
