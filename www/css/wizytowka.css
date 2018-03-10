@@ -17,3 +17,13 @@ h1 {
 		margin:2px; 
 		color:white;
 		}
+	
+input[type=button] {
+	background-color:#4B0082;
+	display:block;
+	margin-left:auto;
+    margin-right:auto;
+	color:black;
+	font-size:10px;
+	font-family:sans-serif;
+}

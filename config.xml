@@ -11,7 +11,7 @@
 	</author>
 	<platform name="android"/>
 	<icon src="www/img/icon.png" density="icon" />
-	<plugin name="cordova-plugin-splashscreen" spec="5.0.2"/>
+	<plugin name="cordova-plugin-splashscreen" spec="~5.0.2"/>
 	<preference name="SplashScreen" value="foo" />
 	<preference name="SplashScreenDelay" value="3000" />
 	<preference name="SplashMaintainAspectRatio" value="true|false" />
